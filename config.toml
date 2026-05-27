@@ -1,0 +1,19 @@
+name = "Everblush"
+version = "0.1.0"
+
+authors = [
+    "Ahum Maitra (@TheAhumMaitra) theahummaitra@gmail.com",
+]
+
+license = "MIT"
+wallpapers_sources = ["https://github.com/Everblush/wallpapers"]
+repo_url = "https://github.com/TheAhumMaitra/Everblush-For-Aurora"
+
+[gtk]
+theme_name = "Yaru-blue-dark"
+icon_theme = "Yaru-blue-dark"
+
+[vscode]
+publisher = "mangeshrex"
+extension_name = "Everblush"
+theme_name = "Everblush"
