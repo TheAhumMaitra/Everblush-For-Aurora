@@ -8,10 +8,6 @@ Everblush is a very cool theme. For Aurora, it looks amazing! Feel free to insta
 aurora download-theme https://github.com/TheAhumMaitra/Everblush-For-Aurora
 ```
 
-```
-```
-```
-
 ## Mannual installation 
 Clone this repo in `.config/themes`
 
