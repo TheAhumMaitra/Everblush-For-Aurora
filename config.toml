@@ -17,3 +17,6 @@ icon_theme = "Yaru-blue-dark"
 publisher = "mangeshrex"
 extension_name = "Everblush"
 theme_name = "Everblush"
+
+[zed]
+theme_name = "Everblush"
